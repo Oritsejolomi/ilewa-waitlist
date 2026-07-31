@@ -23,3 +23,7 @@ npm-debug.log*
 # Playwright generated artifacts
 screenshots/
 test-results/
+
+
+# AI design-audit artifacts
+src/.*-audit.json
